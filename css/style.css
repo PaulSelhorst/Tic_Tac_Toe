@@ -9,19 +9,19 @@ body{
 	width: 900px;
 }
 
-#red{
+#1{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: red;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
 	text-align: center;
 }
 
-#orange{
+#2{
 
 	line-height: 300px;
 	font-family: sans-serif;
@@ -34,12 +34,12 @@ body{
 	text-align: center;
 }
 
-#yellow{
+#3{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: yellow;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
@@ -52,24 +52,12 @@ body{
 	width: 900px;
 }
 
-#green{
-	
-	line-height: 300px;
-	font-family: sans-serif;
-	font-size: 200px;
-	color: white;
-	background-color: green;
-	float: left;
-	height: 300px;
-	width: 300px;
-	text-align: center;
-}
+#4{
 
-#blue{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
+	color: black;
 	background-color: blue;
 	float: left;
 	height: 300px;
@@ -77,12 +65,24 @@ body{
 	text-align: center;
 }
 
-#violet{
+#5{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: violet;
+	color: black;
+	background-color: blue;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#6{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
@@ -90,12 +90,12 @@ body{
 }
 
 
-#purple{
+#7{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: purple;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
@@ -103,24 +103,24 @@ body{
 }
 
 
-#lightblue{
+#8{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: lightblue;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
 	text-align: center;
 }
 
-#pink{
+#9{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
-	color: white;
-	background-color: pink;
+	color: black;
+	background-color: blue;
 	float: left;
 	height: 300px;
 	width: 300px;
