@@ -9,7 +9,7 @@ body{
 	width: 900px;
 }
 
-#1{
+#square1{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
@@ -21,7 +21,7 @@ body{
 	text-align: center;
 }
 
-#2{
+#square2{
 
 	line-height: 300px;
 	font-family: sans-serif;
@@ -34,7 +34,7 @@ body{
 	text-align: center;
 }
 
-#3{
+#square3{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
@@ -52,7 +52,7 @@ body{
 	width: 900px;
 }
 
-#4{
+#square4{
 
 	line-height: 300px;
 	font-family: sans-serif;
@@ -65,7 +65,7 @@ body{
 	text-align: center;
 }
 
-#5{
+#square5{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
@@ -77,20 +77,7 @@ body{
 	text-align: center;
 }
 
-#6{
-	line-height: 300px;
-	font-family: sans-serif;
-	font-size: 200px;
-	color: black;
-	background-color: blue;
-	float: left;
-	height: 300px;
-	width: 300px;
-	text-align: center;
-}
-
-
-#7{
+#square6{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
@@ -103,7 +90,7 @@ body{
 }
 
 
-#8{
+#square7{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
@@ -115,7 +102,20 @@ body{
 	text-align: center;
 }
 
-#9{
+
+#square8{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: black;
+	background-color: blue;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#square9{
 	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
