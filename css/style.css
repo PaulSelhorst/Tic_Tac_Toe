@@ -1,0 +1,128 @@
+body{
+	text-align: center;
+}
+
+
+.wrapper{
+	display: inline-block;
+	height: 300px;
+	width: 900px;
+}
+
+#red{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: red;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#orange{
+
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: orange;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#yellow{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: yellow;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#two{
+	padding-top: 300px;
+	height: 300px;
+	width: 900px;
+}
+
+#green{
+	
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: green;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#blue{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: blue;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#violet{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: violet;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+
+#purple{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: purple;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+
+#lightblue{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: lightblue;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
+
+#pink{
+	line-height: 300px;
+	font-family: sans-serif;
+	font-size: 200px;
+	color: white;
+	background-color: pink;
+	float: left;
+	height: 300px;
+	width: 300px;
+	text-align: center;
+}
