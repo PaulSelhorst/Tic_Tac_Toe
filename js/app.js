@@ -1,4 +1,7 @@
+var spectrum = new Audio("spectrum.mp3");
+
 window.onload= function(){
+	spectrum.play();
 	console.log("loaded");
 	squares();
 }
@@ -12,19 +15,19 @@ var s6="0";
 var s7="0";
 var s8="0";
 var s9="0";
-var turn="x"
+var turn="x";
 
 function squares(){
 	turn="x";
-	document.getElementById('square1').innerHTML ="<button id='button1' onclick='xo1()'>1</button>";
-	document.getElementById('square2').innerHTML ="<button id='button2' onclick='xo2()'>2</button>";
-	document.getElementById('square3').innerHTML ="<button id='button3' onclick='xo3()'>3</button>";
-	document.getElementById('square4').innerHTML ="<button id='button4' onclick='xo4()'>4</button>";
-	document.getElementById('square5').innerHTML ="<button id='button5' onclick='xo5()'>5</button>";
-	document.getElementById('square6').innerHTML ="<button id='button6' onclick='xo6()'>6</button>";
-	document.getElementById('square7').innerHTML ="<button id='button7' onclick='xo7()'>7</button>";
-	document.getElementById('square8').innerHTML ="<button id='button8' onclick='xo8()'>8</button>";
-	document.getElementById('square9').innerHTML ="<button id='button9' onclick='xo9()'>9</button>";
+	document.getElementById('square1').innerHTML ="<button class='touch' id='button1' onclick='xo1()'></button>";
+	document.getElementById('square2').innerHTML ="<button class='touch' id='button2' onclick='xo2()'></button>";
+	document.getElementById('square3').innerHTML ="<button class='touch' id='button3' onclick='xo3()'></button>";
+	document.getElementById('square4').innerHTML ="<button class='touch' id='button4' onclick='xo4()'></button>";
+	document.getElementById('square5').innerHTML ="<button class='touch' id='button5' onclick='xo5()'></button>";
+	document.getElementById('square6').innerHTML ="<button class='touch' id='button6' onclick='xo6()'></button>";
+	document.getElementById('square7').innerHTML ="<button class='touch' id='button7' onclick='xo7()'></button>";
+	document.getElementById('square8').innerHTML ="<button class='touch' id='button8' onclick='xo8()'></button>";
+	document.getElementById('square9').innerHTML ="<button class='touch' id='button9' onclick='xo9()'></button>";
 }
 function xo1(){
 	s1=turn;
@@ -104,10 +107,3 @@ function mark(input){
 		document.getElementById(input).innerHTML="<h1 class=" + input + ">o</h1>";
 	}
 }
-
-
-
-
-
-
-

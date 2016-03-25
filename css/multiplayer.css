@@ -1,0 +1,134 @@
+button{
+	color: #4e8539;
+	background-color: #2dd4ca;
+
+}
+
+body{
+	color: yellow;
+	text-align: center;
+	font-family: arial;
+	background-image: url("../images/giphy.gif");
+}
+
+.touch{
+	height: 200px;
+	width: 200px;
+	color: #2dd4ca;
+	background-color: #00ff04;
+}
+
+#wrapper{
+	display: inline-block;
+	height: 606px;
+	width: 606px;
+}
+
+#square1{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+    border: 1px solid #33F6FF;
+}
+
+#square2{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	border: 1px solid #33F6FF;
+}
+
+#square3{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+#square4{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+#square5{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+#square6{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+#square7{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+
+#square8{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}
+
+#square9{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	float: left;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	  border: 1px solid #33F6FF;
+}

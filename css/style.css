@@ -1,126 +1,53 @@
-button{
-	color: #4e8539;
-	background-color: #2dd4ca;
+body{
+	color: black;
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+
 }
 
-body{
-	color: yellow;
-	text-align: center;
-	font-family: arial;
-	background-image: url("../images/giphy.gif");
+h1 {
+	text-decoration: overline;
+	font-size: 80px;
+	word-spacing: 10px;
 }
 
 #wrapper{
 	display: inline-block;
 	height: 606px;
 	width: 606px;
+	background-color: #4b717f;
+    padding: 25px;
+    border: 25x;
+    margin: 25px;
 }
 
-#square1{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-    border: 1px solid #33F6FF;
+    
+
+input[type="button"] {
+	display: inline-block;
+    width: 120px;
+    height: 120px;
+    font-size: 30px;
+    font-family:"Arial Black", Gadget, sans-serif;
+
+
 }
 
-#square2{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	border: 1px solid #33F6FF;
+input[type=button]:hover {
+    background-color:#f2f0f0;
 }
 
-#square3{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
+.button {
+    background-color: #f2f0f0;
+    border: 1px solid #666;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
-#square4{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
-}
-
-#square5{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
-}
-
-#square6{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
-}
-
-#square7{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
-}
-
-
-#square8{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
-}
-
-#square9{
-	font-family: sans-serif;
-	font-size: 20px;
-	color: white;
-	background-color: black;
-	float: left;
-	height: 200px;
-	width: 200px;
-	text-align: center;
-	  border: 1px solid #33F6FF;
+.button:hover {
+	background-color: #4b717f;
 }
