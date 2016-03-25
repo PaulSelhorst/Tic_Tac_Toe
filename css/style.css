@@ -2,127 +2,117 @@ body{
 	text-align: center;
 }
 
-
-.wrapper{
+#wrapper{
 	display: inline-block;
-	height: 300px;
-	width: 900px;
+	height: 606px;
+	width: 606px;
 }
 
 #square1{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+    border: 1px solid #33F6FF;
 }
 
 #square2{
-
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: white;
-	background-color: orange;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
 #square3{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
-}
-
-#two{
-	padding-top: 300px;
-	height: 300px;
-	width: 900px;
+	  border: 1px solid #33F6FF;
 }
 
 #square4{
-
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
 #square5{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
 #square6{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
-
 #square7{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
 
 #square8{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
 
 #square9{
-	line-height: 300px;
 	font-family: sans-serif;
 	font-size: 200px;
 	color: black;
-	background-color: blue;
+	background-color: black;
 	float: left;
-	height: 300px;
-	width: 300px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
+	  border: 1px solid #33F6FF;
 }
