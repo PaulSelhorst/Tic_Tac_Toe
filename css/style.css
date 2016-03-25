@@ -1,8 +1,14 @@
-body{
-	color: black;
-	text-align: center;
+button{
+	color: #4e8539;
+	background-color: #2dd4ca;
 }
 
+body{
+	color: yellow;
+	text-align: center;
+	font-family: arial;
+	background-image: url("../images/giphy.gif");
+}
 
 #wrapper{
 	display: inline-block;

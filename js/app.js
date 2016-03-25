@@ -15,6 +15,7 @@ var s9="0";
 var turn="x"
 
 function squares(){
+	turn="x";
 	document.getElementById('square1').innerHTML ="<button id='button1' onclick='xo1()'>1</button>";
 	document.getElementById('square2').innerHTML ="<button id='button2' onclick='xo2()'>2</button>";
 	document.getElementById('square3').innerHTML ="<button id='button3' onclick='xo3()'>3</button>";
@@ -26,18 +27,21 @@ function squares(){
 	document.getElementById('square9').innerHTML ="<button id='button9' onclick='xo9()'>9</button>";
 }
 function xo1(){
+	s1=turn;
 	console.log("1");
 	mark("square1");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
 }
 
 function xo2(){
+	s2=turn
 	console.log("2");
 	mark("square2");
 	//document.getElementById("square2").innerHTML ="<h1>o</h1>";
 }
 
 function xo3(){
+	s3=turn
 	console.log("3");
 	mark("square3");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
@@ -45,6 +49,7 @@ function xo3(){
 
 
 function xo4(){
+	s4=turn
 	console.log("4");
 	mark("square4");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
@@ -52,6 +57,7 @@ function xo4(){
 
 
 function xo5(){
+	s5=turn
 	console.log("5");
 	mark("square5");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
@@ -59,12 +65,14 @@ function xo5(){
 
 
 function xo6(){
+	s6=turn
 	console.log("6");
 	mark("square6");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
 }
 
 function xo7(){
+	s7=turn
 	console.log("7");
 	mark("square7");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
@@ -72,6 +80,7 @@ function xo7(){
 
 
 function xo8(){
+	s8=turn
 	console.log("8");
 	mark("square8");
 	//document.getElementById("square1").innerHTML ="<h1>x</h1>";
@@ -89,10 +98,10 @@ function xo9(){
 function mark(input){
 	if(turn=="x"){
 		turn="o";
-		document.getElementById(input).innerHTML="<h1>x</h1>";
+		document.getElementById(input).innerHTML="<h1 class=" + input + ">x</h1>";
 	}else if(turn=="o"){
 		turn="x";
-		document.getElementById(input).innerHTML="<h1>o</h1>";
+		document.getElementById(input).innerHTML="<h1 class=" + input + ">o</h1>";
 	}
 }
 
