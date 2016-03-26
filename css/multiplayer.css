@@ -12,9 +12,16 @@ body{
 	background-image: url("../images/giphy.gif");
 }
 
+#maintitle{
+	align-content: center;
+	text-align: center;
+}
+
 #titlebanner{
+	display: inline-block;
 	background-color: black;
 	width: 400px;
+	align-content: center;
 }
 
 
