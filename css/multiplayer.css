@@ -7,9 +7,17 @@ button{
 body{
 	color: yellow;
 	text-align: center;
+	align-content: center;
 	font-family: arial;
 	background-image: url("../images/giphy.gif");
 }
+
+#titlebanner{
+	background-color: black;
+	width: 400px;
+}
+
+
 
 .touch{
 	height: 200px;
